@@ -621,10 +621,10 @@ button {
 }
 
 .footer-logo {
-    height: 48px;
+    height: 100px;
     width: auto;
     margin-bottom: 1rem;
-    filter: brightness(0) invert(1);
+    /* filter: brightness(0) invert(1); */
 }
 
 .footer-bottom {
